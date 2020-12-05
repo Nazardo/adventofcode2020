@@ -10,4 +10,5 @@ else()
     add_compile_options(-Wall -Wextra -pedantic -Werror)
 endif()
 
+add_subdirectory(day1)
 add_subdirectory(day5)
